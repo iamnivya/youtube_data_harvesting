@@ -17,8 +17,9 @@ Here by clicking Migrate button, all the channel details which are stored in Mon
 ### Analysis using SQL
 By using channel details stored in SQL,the results are derived using MySQL queries for the questions about youtube channel.And the results are displayed in streamlit application in the form of tables 
 ## References
+Github cloning documentation: https://git-scm.com/docs/git-clone<br>
 Python documentation: https://docs.python.org/ <br>
-YouTube API: https://developers.google.com/youtube <br>
-MongoDB compass: https://www.mongodb.com/docs/compass/current/ <br>
 MySQL: https://dev.mysql.com/doc/ <br>
 Streamlit: https://docs.streamlit.io/ <br>
+Pandas documentation: https://pandas.pydata.org/docs/ <br>
+plotly documentation: https://plotly.com/python/
